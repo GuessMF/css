@@ -1,0 +1,118 @@
+h1{
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  line-height: 3;
+color: #66bfbf;}
+
+hr{
+  border-bottom-style: dotted;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  border-width: 8px;
+  border-color: #EAF6F6;
+  height: 10px;
+  width: 5%;
+margin-bottom: 20px;
+margin-top: 100px;}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  margin-top: 0;
+  font-weight: normal;
+  color: #66bfbf;}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;}
+
+h5{
+  font-family: 'Montserrat', sans-serif;
+  color: white;}
+
+body {
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  background-color: #eaf6f6;
+  margin: 0;}
+
+.top-container{
+padding-top: 100px;
+  margin-top: 88px;
+  background-color: #EAF6F6;}
+
+.middle-container{
+padding-top: 30px;
+  background-color: white;}
+
+.bottom-container{
+background-color: #66BFBF;
+padding-top: 50px;
+padding-bottom: 50px;}
+
+.inst{
+  margin-top: 100px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+  color: #11999E}
+
+.vk{
+  margin-top: 100px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+  color: #11999E}
+
+.top-cloud{
+  position: relative;
+  margin-right: 500px;}
+
+.bottom-cloud{
+  position: absolute;
+  margin-left: 150px;}
+
+.mountain{
+  position: relative;
+  margin-top: 50px;}
+
+.skills{
+  margin-top: 100px;}
+
+.skill-s{
+  margin: 100px auto 200px auto;
+width: 50%;
+line-height: 2;
+text-align: left;}
+
+.skill-p{
+  margin: 100px auto 200px auto;
+width: 50%;
+line-height: 2;
+text-align: left;}
+
+.gif{
+  width: 25%;
+  float: right;
+  margin-left: 30px;}
+
+.swim{
+  margin-right: 30px;
+  width: 25%;
+float:left;}
+
+.button{
+  background-color: #11999E;
+      border-radius: 12px;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 32px;
+      margin-bottom: 20px;}
+
+.bottom{
+  background-color:white;
+  margin-top: 100px;}
